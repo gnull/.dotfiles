@@ -1,0 +1,9 @@
+set bell-style off
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+"\C-b": shell-backward-word
+"\C-f": shell-forward-word
+
+"\C-p": history-search-backward
+"\C-n": history-search-forward

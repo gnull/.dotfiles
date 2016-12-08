@@ -1,0 +1,13 @@
+XTerm*locale: true
+
+xterm*metaSendsEscape: true
+xterm*eightBitInput: false
+
+xterm*saveLines: 2500
+!xterm*faceName: DejaVu Sans Mono:size=12:antialias=true
+!xterm*faceName: Inconsolata:size=12:antialias=true
+xterm*faceName: DejaVu Sans Mono:size=10:antialias=true
+
+xterm*foreground: gray100
+xterm*cursorColor: gray100
+xterm*background: gray20
